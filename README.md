@@ -105,3 +105,7 @@ Mengatur rute navigasi dalam aplikasi.
 - `package.json` → Berisi informasi proyek dan dependensi yang digunakan.
 
 ---
+## ⚙️ **User Login Dummy**
+- Untuk login digunakan data dummy dan token di proses secara localstorage, berikut username dan password yang dibutuhkan
+- Username : admin
+- Password : password123
